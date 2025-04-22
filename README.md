@@ -126,7 +126,7 @@ Please use the following reference if you find this project useful for your rese
    ```
 
 ## 🤝 Contact
-If you have any questions, please drop me an email: lens4mllms@googlegroups.com
+If you have any questions, please drop us an email: lens4mllms@googlegroups.com
 
 ## 🚨 Ethical and Responsible Use
 
