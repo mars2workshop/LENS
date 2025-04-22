@@ -25,13 +25,13 @@
 ### 🌟 Key Features
 
 - **Large-Scale, High-Quality QA Pairs**  
-  ***3.4K*** contemporary photographs and ***40K+*** domain-specific question-answer pairs are fully human-annotated and reviewed by domain experts.
+  ***3.4K*** contemporary photographs and ***40K*** domain-specific question-answer pairs are fully human-annotated and reviewed by domain experts.
 
 - **Fresh and Diverse Images**  
-  All images are newly collected ***after June 2024***, capturing up-to-date visual content from ***12*** real-world scenarios.
+  About 53\% of the images are from ***2025*** and more than 80\% of the images are from after ***September 2024***, capturing up-to-date visual content from ***12*** real-world scenarios.
 
 - **Fine-Grained Category Annotations**  
-  Over ***600*** fine-grained visual categories are included, allowing for a more precise evaluation of MLLM understanding.
+  Over ***300*** fine-grained visual categories are included, allowing for a more precise evaluation of MLLM understanding.
 
 - **Open-Ended Evaluation Protocol**  
   The benchmark supports over ***65*** distinct question styles, reflecting the diversity of real-world user intents.
