@@ -59,7 +59,6 @@ LENS aims to serve as a rigorous, extensible foundation for future MLLM benchmar
 - [ ] **arXiv Submission**: A preprint of the paper will be submitted to arXiv shortly.
 - [ ] **Competition Launch**: A public challenge will be organized based on the proposed benchmark.
 
-
 ## 📥 Dataset Downloads
 You can download the LENS dataset from the following platforms:
 - 🔗 **Google Drive**: [Download here](https://drive.google.com/drive/folders/13H12KBrZP5qz-Gab-XaIWFUJAfOrtUGm)
