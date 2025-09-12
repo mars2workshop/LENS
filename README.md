@@ -60,7 +60,7 @@ LENS aims to serve as a rigorous, extensible foundation for future MLLM benchmar
 - [ ] **Competition Launch**: A public challenge will be organized based on the proposed benchmark.
 
 
-##📥 Dataset Downloads
+## 📥 Dataset Downloads
 You can download the LENS dataset from the following platforms:
 - 🔗 **Google Drive**: [Download here](https://drive.google.com/drive/folders/13H12KBrZP5qz-Gab-XaIWFUJAfOrtUGm)
 - 🐫 **ModelScope**: [Download here](https://www.modelscope.cn/datasets/zhihe678/LENS/files)
