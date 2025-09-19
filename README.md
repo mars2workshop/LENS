@@ -6,8 +6,8 @@
 
 <div align="center">
     <p align="center">
-        🔬 <b>Paper</b> (🔗 <a href="https://github.com/Mr-Bigworth/LENS/tree/main">arXiv</a>, 
-        🤗 <a href="https://github.com/Mr-Bigworth/LENS/tree/main">Huggingface</a>)
+        🔬 <b>Paper</b> (🔗 <a href="https://arxiv.org/abs/2505.15616">arXiv</a>, 
+        🤗 <a href="https://huggingface.co/datasets/zhihe678/LENS/tree/main">Huggingface</a>)
     </p>
     <p align="center">
         <i>Keyworks: MLLMs, Multimodal Evaluation, Multimodal Reasoning, Open Challenges.</i>
